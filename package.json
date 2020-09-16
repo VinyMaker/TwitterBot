@@ -1,0 +1,19 @@
+{
+  "name": "gifbot",
+  "version": "1.0.0",
+  "description": "Just a Gif Bot on Twitter",
+  "main": "GifBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Gif",
+    "Bot"
+  ],
+  "author": "@VinyMaker",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twit": "^2.2.11"
+  }
+}
