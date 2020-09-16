@@ -1,11 +1,11 @@
 {
   "name": "gifbot",
-  "version": "1.0.0",
+  "version": "15.9.20",
   "description": "Just a Gif Bot on Twitter",
   "main": "GifBot.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+   "scripts": {
+        "start": "retweetbot.js"
+    },
   "keywords": [
     "Gif",
     "Bot"
